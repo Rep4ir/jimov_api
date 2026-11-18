@@ -5,3 +5,7 @@ node_modules
 /src/scraper/sites/anime/tioanime/testing.js
 coverage
 .vercel
+.github
+.husky
+chrome
+debug*
